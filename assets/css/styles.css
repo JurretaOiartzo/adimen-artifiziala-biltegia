@@ -742,9 +742,10 @@
   width: 100%;
   max-width: 420px;
   aspect-ratio: 1 / 1;
+    padding: 5px;
   border-radius: 28px;
   overflow: hidden;
-  background: rgba(15, 23, 42, 0.72);
+  background: #000;
   border: 1px solid rgba(148, 163, 184, 0.22);
   box-shadow: 0 24px 80px rgba(15, 23, 42, 0.45);
 }
